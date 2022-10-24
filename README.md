@@ -1,5 +1,7 @@
 # Computer-vision-rock-paper-scissors
 
+For now, I have created a visual image model for the game Rock, paper scissors using Teachable machine.
+
 from keras.models import load_model
 from PIL import Image, ImageOps
 import numpy as np
